@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+spacy
+nrclex
+textblob
+matplotlib
+seaborn
+rapidfuzz
+scikit-learn
+statsmodels
+transformers==4.44.2
+torch
